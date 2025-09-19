@@ -1,0 +1,5 @@
+Flask==2.3.3
+Flask_SQLAlchemy==3.0.3
+Flask-Migrate==4.0.4
+Flask-JWT-Extended==5.4.0
+Flask-Cors==4.0.0
